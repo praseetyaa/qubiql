@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'qubiql' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'spandiv' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'bismillah*2020#' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
